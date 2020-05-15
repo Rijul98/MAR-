@@ -1,0 +1,11 @@
+The following code solution attempts to forecast the number of taxi trips per day.
+ 
+A custom dataset has been created taking data from NYC Taxi Association data.
+
+Extreme Gradient Boosting was chosen as the model.
+ 
+This is comparatively a new model in ML world and has seen pretty good performances.
+
+It has been used to find the trend or seasonality if any in the dataset.
+
+Mean Absolute Percentage Error from this model came at 16% approx. 
